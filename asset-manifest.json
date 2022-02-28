@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/CoreyMiller85/clothes/static/js/main.f54859e8.chunk.js",
-    "main.js.map": "/CoreyMiller85/clothes/static/js/main.f54859e8.chunk.js.map",
-    "runtime-main.js": "/CoreyMiller85/clothes/static/js/runtime-main.5e926003.js",
-    "runtime-main.js.map": "/CoreyMiller85/clothes/static/js/runtime-main.5e926003.js.map",
-    "static/js/2.b6d474fa.chunk.js": "/CoreyMiller85/clothes/static/js/2.b6d474fa.chunk.js",
-    "static/js/2.b6d474fa.chunk.js.map": "/CoreyMiller85/clothes/static/js/2.b6d474fa.chunk.js.map",
-    "index.html": "/CoreyMiller85/clothes/index.html",
-    "static/js/2.b6d474fa.chunk.js.LICENSE.txt": "/CoreyMiller85/clothes/static/js/2.b6d474fa.chunk.js.LICENSE.txt"
+    "main.js": "/Clothes/static/js/main.fd8c457b.chunk.js",
+    "main.js.map": "/Clothes/static/js/main.fd8c457b.chunk.js.map",
+    "runtime-main.js": "/Clothes/static/js/runtime-main.71bcd9ce.js",
+    "runtime-main.js.map": "/Clothes/static/js/runtime-main.71bcd9ce.js.map",
+    "static/js/2.d63ff9f4.chunk.js": "/Clothes/static/js/2.d63ff9f4.chunk.js",
+    "static/js/2.d63ff9f4.chunk.js.map": "/Clothes/static/js/2.d63ff9f4.chunk.js.map",
+    "index.html": "/Clothes/index.html",
+    "static/js/2.d63ff9f4.chunk.js.LICENSE.txt": "/Clothes/static/js/2.d63ff9f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e926003.js",
-    "static/js/2.b6d474fa.chunk.js",
-    "static/js/main.f54859e8.chunk.js"
+    "static/js/runtime-main.71bcd9ce.js",
+    "static/js/2.d63ff9f4.chunk.js",
+    "static/js/main.fd8c457b.chunk.js"
   ]
 }
