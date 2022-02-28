@@ -1,14 +1,14 @@
 export const sliderItems = [
   {
     id: 1,
-    img: './assets/img/mini-dress.png',
+    img: 'https://images.pexels.com/photos/1917611/pexels-photo-1917611.jpeg?cs=srgb&dl=pexels-mattheuss-1917611.jpg&fm=jpg',
     title: 'SUMMER SALE',
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: 'f5fafd',
   },
   {
     id: 2,
-    img: 'https://i.ibb.co/DG69bQ4/2.png',
+    img: 'https://images.pexels.com/photos/6311590/pexels-photo-6311590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
     title: 'AUTUMN COLLECTION',
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: 'fcf1ed',
@@ -47,7 +47,7 @@ export const popularProducts = [
   },
   {
     id: 2,
-    img: 'https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388',
+    img: 'https://www.showpo.com/on/demandware.static/-/Library-Sites-ShowpoSharedLibrary/default/dwb90af072/homepage/2022/02-FEB/C7_ALL_20220228_Amalie-Ghost-image_2.jpg',
   },
   {
     id: 3,
@@ -67,7 +67,7 @@ export const popularProducts = [
   },
   {
     id: 7,
-    img: 'https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png',
+    img: 'https://www.vintageindustries.nl/download_front/gzivxn1610/31101_albury_hooded_sweatshirt_Charcoal.png',
   },
   {
     id: 8,
