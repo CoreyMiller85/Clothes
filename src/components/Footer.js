@@ -7,6 +7,8 @@ import {
   Room,
   Twitter,
 } from '@material-ui/icons';
+import React from 'react';
+
 import styled from 'styled-components';
 import { mobile } from '../responsive';
 

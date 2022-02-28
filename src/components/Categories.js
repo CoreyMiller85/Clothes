@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import React from 'react';
 import CategoryItem from './CategoryItem';
 import { categories } from '../data';
 import { mobile } from '../responsive';
